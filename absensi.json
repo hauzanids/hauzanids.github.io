@@ -1,9 +1,0 @@
-[
-{"type":"header","version":"4.8.3","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"dblima"},
-{"type":"table","name":"absensi","database":"dblima","data":
-[
-{"id":"1","nama":"Hauzani Dhianulwansyah Setiawan","kelompok":"2","status_mulai":"hadir","status_akhir":"hadir","sprint":"1","jam_mulai":"2019-12-09 07:30:00","jam_akhir":"2019-12-09 17:00:00","nilai":"100"}
-]
-}
-]

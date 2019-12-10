@@ -1,10 +1,43 @@
 [
-{"type":"header","version":"4.8.3","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"dblima"},
-{"type":"table","name":"absensi","database":"dblima","data":
-[
-{"id":"1","nama":"Hauzani Dhianulwansyah Setiawan","kelompok":"2","status_mulai":"hadir","status_akhir":"hadir","sprint":"1","tanggal":"2019-12-09","jam_mulai":"07:30:00","jam_akhir":"17:00:00","nilai":"100"},
-{"id":"2","nama":"Hauzani Dhianulwansyah Setiawan","kelompok":"2","status_mulai":"hadir","status_akhir":"hadir","sprint":"2","tanggal":"2019-12-16","jam_mulai":"07:30:00","jam_akhir":"17:00:00","nilai":"100"}
-]
+ {
+  "type":"header",
+  "version":"4.8.3",
+  "comment":"Export to JSON plugin for PHPMyAdmin"
+ },
+ {
+  "type":"database",
+  "name":"dblima"
+ },
+ {
+  "type":"table",
+  "name":"absensi",
+  "database":"dblima",
+  "data":
+  [
+   {
+    "id":"1",
+    "nama":"Hauzani Dhianulwansyah Setiawan",
+    "kelompok":"2",
+    "status_mulai":"hadir",
+    "status_akhir":"hadir",
+    "sprint":"1",
+    "tanggal":"2019-12-09",
+    "jam_mulai":"07:30:00",
+    "jam_akhir":"17:00:00",
+    "nilai":"100"
+   },
+   {
+    "id":"2",
+    "nama":"Hauzani Dhianulwansyah Setiawan",
+    "kelompok":"2",
+    "status_mulai":"hadir",
+    "status_akhir":"hadir",
+    "sprint":"2",
+    "tanggal":"2019-12-16",
+    "jam_mulai":"07:30:00",
+    "jam_akhir":"17:00:00",
+    "nilai":"100"
+   }
+  ]
 }
 ]

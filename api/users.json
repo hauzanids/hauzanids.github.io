@@ -1,0 +1,72 @@
+[
+{
+    "type": "header",
+    "version": "4.8.3",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "dblima2"
+},
+{
+    "type": "table",
+    "name": "users",
+    "database": "dblima2",
+    "data": 
+[
+{
+    "id": "1",
+    "name": "admin",
+    "nim": "250",
+    "password": "$2y$10$HjlFSBfKJrKqjcnPc2w6IOHfChw6xNxzVw4683kjmSduQZU4uvX96",
+    "pin": null,
+    "role": "admin",
+    "prodi": null,
+    "kelompok": null,
+    "remember_token": "qrPRwHEaN0PsvZ1nnWOdYvSI5aJCMtVJF7U7oOMbHm3k3dIEKHoOlAAkUqIu",
+    "created_at": "2019-12-10 03:09:09",
+    "updated_at": "2019-12-10 03:09:09"
+},
+{
+    "id": "2",
+    "name": "yazid",
+    "nim": "011",
+    "password": "$2y$10$7waHIwYfXSe.rp7pyRwXiuFB\/CTRvcu.5ij1WXXR65vm4ZScHiSkW",
+    "pin": null,
+    "role": "mahasiswa",
+    "prodi": "ti",
+    "kelompok": "1",
+    "remember_token": "Uz4qND10gRJ0qpntgRzz7AyHWNiHcJ8bi5d9k9rEy9RBBew21k8ElPZaC2Wo",
+    "created_at": "2019-12-10 03:13:20",
+    "updated_at": "2019-12-10 03:13:20"
+},
+{
+    "id": "3",
+    "name": "adi",
+    "nim": "012",
+    "password": "$2y$10$kT4R4wMa95G8Z4rSQ46lKepEo3VZybnwL1Fsig12ku\/67EC6ZhnuS",
+    "pin": null,
+    "role": "mahasiswa",
+    "prodi": "ti",
+    "kelompok": "2",
+    "remember_token": "NncHCuqvJi8EAYEy5ztz5VuyqTUm9L3HYBUooIiqVl3LvaAFEdUG5Oc0Icrr",
+    "created_at": "2019-12-10 06:21:43",
+    "updated_at": "2019-12-10 06:21:43"
+},
+{
+    "id": "4",
+    "name": "ade",
+    "nim": "013",
+    "password": "$2y$10$4ddWloMmJXAsbH0n99y4GOgeo2QGyLy6kbfxBUiW2Ppbnq4by9JW6",
+    "pin": null,
+    "role": "mahasiswa",
+    "prodi": "ti",
+    "kelompok": "2",
+    "remember_token": "93JzV6lG3Q9TdfpNWS4YZ6WRJuSieFYi972SpCQpNuvxO8ucActqucxpSCnm",
+    "created_at": "2019-12-10 09:25:36",
+    "updated_at": "2019-12-10 09:25:36"
+}
+]
+
+}
+]

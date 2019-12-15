@@ -1,0 +1,45 @@
+[
+{
+    "type": "header",
+    "version": "4.8.3",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "dblima2"
+},
+{
+    "type": "table",
+    "name": "migrations",
+    "database": "dblima2",
+    "data": 
+[
+{
+    "id": "1",
+    "migration": "2014_10_12_100000_create_password_resets_table",
+    "batch": "1"
+},
+{
+    "id": "2",
+    "migration": "2019_10_12_103025_create_sprints_table",
+    "batch": "1"
+},
+{
+    "id": "3",
+    "migration": "2019_11_26_033720_create_users_table",
+    "batch": "1"
+},
+{
+    "id": "4",
+    "migration": "2019_11_26_033806_create_absence_logs_table",
+    "batch": "1"
+},
+{
+    "id": "5",
+    "migration": "2019_11_26_040200_create_nilai_kelompok_table",
+    "batch": "1"
+}
+]
+
+}
+]

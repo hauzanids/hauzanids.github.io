@@ -1,17 +1,4 @@
-[
 {
-    "type": "header",
-    "version": "4.8.3",
-    "comment": "Export to JSON plugin for PHPMyAdmin"
-},
-{
-    "type": "database",
-    "name": "dblima2"
-},
-{
-    "type": "table",
-    "name": "absence_logs",
-    "database": "dblima2",
     "data": 
 [
 {
@@ -108,4 +95,3 @@
 ]
 
 }
-]

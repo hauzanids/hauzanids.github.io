@@ -3,25 +3,25 @@
 [
 {
     "id": "1",
-    "nilai_kelompok": "0",
+    "nilai_kelompok": "100",
     "kelompok": "1",
-    "sprint_id": null,
+    "sprint_id": "1",
     "created_at": null,
     "updated_at": null
 },
 {
     "id": "2",
-    "nilai_kelompok": "0",
-    "kelompok": "1",
-    "sprint_id": "2",
+    "nilai_kelompok": "200",
+    "kelompok": "2",
+    "sprint_id": "1",
     "created_at": null,
     "updated_at": null
 },
 {
     "id": "3",
-    "nilai_kelompok": "0",
-    "kelompok": "2",
-    "sprint_id": "1",
+    "nilai_kelompok": "200",
+    "kelompok": "1",
+    "sprint_id": "2",
     "created_at": null,
     "updated_at": null
 },
@@ -35,24 +35,24 @@
 },
 {
     "id": "5",
-    "nilai_kelompok": "200",
-    "kelompok": "2",
+    "nilai_kelompok": "300",
+    "kelompok": "3",
     "sprint_id": "2",
     "created_at": null,
     "updated_at": null
 },
 {
     "id": "6",
-    "nilai_kelompok": "300",
-    "kelompok": "2",
+    "nilai_kelompok": "400",
+    "kelompok": "4",
     "sprint_id": "2",
     "created_at": null,
     "updated_at": null
 },
 {
     "id": "7",
-    "nilai_kelompok": "400",
-    "kelompok": "2",
+    "nilai_kelompok": "500",
+    "kelompok": "5",
     "sprint_id": "2",
     "created_at": null,
     "updated_at": null
